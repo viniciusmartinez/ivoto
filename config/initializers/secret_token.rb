@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Ivoto::Application.config.secret_token = '61d469e8d12b410a23a4bf429b511f373aaf64a838fcee5d1ac1bd31d8d951b2821970beeb99a79b0cc320ac35a4a053c708cef1c492115aad25371e64f959c5'
+Organizer::Application.config.secret_token = '838ccb5f7b77ebb18f66fb67114b3095a34df6926be9bd00cb58a0a2128ec131656aa4a04828d2c249cb211fde7baea33eeb421567a1b0d38b75d70bf4090a3d'
